@@ -8,10 +8,10 @@
         <atom:link href="https://thegrid.ai/vespernj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vesperados]]></title>
-            <description><![CDATA[<article><h1>Vesperados</h1><p>Vesper Semper</p></article>]]></description>
+            <description><![CDATA[<article><h1>Vesperados</h1><p>Vesper Semper</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7d6e4d3-4dfe-408d-bad9-23db8a7cab4b.jpg"></article>]]></description>
             <link>https://thegrid.ai/vespernj/vesperados/index.html</link>
             <guid isPermaLink="false">50fe358c-b4b2-497b-a86b-1f1e4681eeec</guid>
-            <pubDate>Mon, 25 Jan 2016 16:23:28 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 16:28:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
