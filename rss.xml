@@ -4,7 +4,7 @@
         <description><![CDATA[Site of the Vesper Football Club over 40]]></description>
         <link>https://thegrid.ai/vespernj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 16:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 16:28:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vespernj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vesperados]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/vespernj/vesperados/index.html</link>
             <guid isPermaLink="false">50fe358c-b4b2-497b-a86b-1f1e4681eeec</guid>
             <pubDate>Mon, 25 Jan 2016 16:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Game on Tuesday</p>]]></description>
+            <link>https://thegrid.ai/vespernj/375f1ea1-9e68-4265-89c3-b33efc244a9a/index.html</link>
+            <guid isPermaLink="false">375f1ea1-9e68-4265-89c3-b33efc244a9a</guid>
+            <pubDate>Mon, 25 Jan 2016 16:25:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
