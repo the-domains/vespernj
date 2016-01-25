@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Our official vehicle
-datePublished: '2016-01-25T16:16:37.642Z'
-dateModified: '2016-01-25T16:15:39.850Z'
+datePublished: '2016-01-25T16:23:07.236Z'
+dateModified: '2016-01-25T16:23:02.269Z'
 title: Vesperados
 author: []
 authors: []
