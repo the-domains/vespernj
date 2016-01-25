@@ -1,0 +1,28 @@
+name: VesperNJ
+favicon: null
+layout_spectrum: 0.3880532484035939
+typography_spectrum: 0.0213888599537313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7404230865649879
+  lightness: 0.6545848043169826
+  saturation: 0.19206950371153653
+  rhythmicContrast: 0.7383550661616027
+purpose: []
