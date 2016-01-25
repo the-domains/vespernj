@@ -1,6 +1,6 @@
 name: VesperNJ
 favicon: null
-layout_spectrum: 0.3880532484035939
+layout_spectrum: 0.8002
 typography_spectrum: 0.0213888599537313
 title: Site of the Vesper Football Club over 40
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 1
+    - '#000000'
+    - '#f8f4f1'
+    - '#823114'
+    - '#b98756'
+    - '#950004'
+  brandStrength: 0.8125
   lightness: 0.625
   saturation: 0.3125
   rhythmicContrast: 0.5
