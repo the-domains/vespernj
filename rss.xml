@@ -4,21 +4,14 @@
         <description><![CDATA[Site of the Vesper Football Club over 40]]></description>
         <link>https://thegrid.ai/vespernj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 16:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 16:29:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vespernj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vesperados]]></title>
-            <description><![CDATA[<article><h1>Vesperados</h1><p>Vesper Semper</p></article>]]></description>
+            <description><![CDATA[<article><h1>Vesperados</h1><p>Vesper Semper</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7d6e4d3-4dfe-408d-bad9-23db8a7cab4b.jpg"></article>]]></description>
             <link>https://thegrid.ai/vespernj/vesperados/index.html</link>
             <guid isPermaLink="false">50fe358c-b4b2-497b-a86b-1f1e4681eeec</guid>
-            <pubDate>Mon, 25 Jan 2016 16:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee67be5-cb23-4fc7-bb07-2ddbde307a60.jpg">]]></description>
-            <link>https://thegrid.ai/vespernj/375f1ea1-9e68-4265-89c3-b33efc244a9a/index.html</link>
-            <guid isPermaLink="false">375f1ea1-9e68-4265-89c3-b33efc244a9a</guid>
-            <pubDate>Mon, 25 Jan 2016 16:27:12 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 16:28:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
